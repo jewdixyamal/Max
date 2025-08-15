@@ -1,0 +1,22 @@
+package defpackage;
+
+import java.util.List;
+import java.util.Set;
+
+/* renamed from: xf9  reason: default package */
+public final class xf9 {
+    public final boolean a;
+    public final Set b;
+    public final List c;
+
+    public xf9(boolean z, Set set, List list) {
+        this.a = z;
+        this.b = set;
+        this.c = list;
+    }
+
+    /* JADX INFO: this call moved to the top of the method (can break code semantics) */
+    public /* synthetic */ xf9(boolean z, int i) {
+        this((i & 1) != 0 ? false : z, wz4.a, nz4.a);
+    }
+}

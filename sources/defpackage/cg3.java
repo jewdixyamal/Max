@@ -1,0 +1,18 @@
+package defpackage;
+
+import kotlin.coroutines.Continuation;
+
+/* renamed from: cg3  reason: default package */
+public final class cg3 extends pnf {
+    public final s35 X = new s35(0);
+    public final gg1 b;
+    public final ir1 c;
+    public final eo1 o;
+
+    public cg3(gg1 gg1, ir1 ir1, eo1 eo1) {
+        this.b = gg1;
+        this.c = ir1;
+        this.o = eo1;
+        od2.L(new zn5(eo1.j, new bg3(this, (Continuation) null), 5), this.a);
+    }
+}

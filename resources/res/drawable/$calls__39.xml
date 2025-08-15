@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:ordering="together">
+    <objectAnimator android:interpolator="@drawable/$calls__40" android:duration="133" android:startOffset="0" android:valueFrom="1.2737" android:valueTo="1.1618" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@drawable/$calls__41" android:duration="133" android:startOffset="0" android:valueFrom="1.2737" android:valueTo="1.1618" android:valueType="floatType" android:propertyName="scaleY"/>
+    <objectAnimator android:interpolator="@drawable/$calls__42" android:duration="467" android:startOffset="133" android:valueFrom="1.1618" android:valueTo="1.2925" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@drawable/$calls__43" android:duration="467" android:startOffset="133" android:valueFrom="1.1618" android:valueTo="1.2925" android:valueType="floatType" android:propertyName="scaleY"/>
+    <objectAnimator android:interpolator="@drawable/$calls__44" android:duration="133" android:startOffset="600" android:valueFrom="1.2925" android:valueTo="1.1618" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@drawable/$calls__45" android:duration="133" android:startOffset="600" android:valueFrom="1.2925" android:valueTo="1.1618" android:valueType="floatType" android:propertyName="scaleY"/>
+    <objectAnimator android:interpolator="@drawable/$calls__46" android:duration="167" android:startOffset="733" android:valueFrom="1.1618" android:valueTo="1.2737" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@drawable/$calls__47" android:duration="167" android:startOffset="733" android:valueFrom="1.1618" android:valueTo="1.2737" android:valueType="floatType" android:propertyName="scaleY"/>
+</set>

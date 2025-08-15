@@ -1,0 +1,18 @@
+package defpackage;
+
+/* renamed from: b1b  reason: default package */
+public final class b1b implements d1b {
+    public static final b1b a = new Object();
+
+    public final boolean equals(Object obj) {
+        return this == obj || (obj instanceof b1b);
+    }
+
+    public final int hashCode() {
+        return 766182599;
+    }
+
+    public final String toString() {
+        return "Empty";
+    }
+}

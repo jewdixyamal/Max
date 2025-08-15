@@ -1,0 +1,22 @@
+package defpackage;
+
+/* renamed from: q06  reason: default package */
+public abstract class q06 implements v1d {
+    public final v1d a;
+
+    public q06(v1d v1d) {
+        this.a = v1d;
+    }
+
+    public final boolean c() {
+        return this.a.c();
+    }
+
+    public t1d e(long j) {
+        return this.a.e(j);
+    }
+
+    public long f() {
+        return this.a.f();
+    }
+}

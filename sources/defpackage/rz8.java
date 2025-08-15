@@ -1,0 +1,23 @@
+package defpackage;
+
+import kotlin.coroutines.Continuation;
+
+/* renamed from: rz8  reason: default package */
+public final class rz8 extends hu3 {
+    public int X;
+    public on5 Y;
+    public final /* synthetic */ sz8 Z;
+    public /* synthetic */ Object o;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public rz8(sz8 sz8, Continuation continuation) {
+        super(continuation);
+        this.Z = sz8;
+    }
+
+    public final Object o(Object obj) {
+        this.o = obj;
+        this.X |= Integer.MIN_VALUE;
+        return this.Z.a((Object) null, this);
+    }
+}

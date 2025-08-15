@@ -1,0 +1,29 @@
+package defpackage;
+
+/* renamed from: t5f  reason: default package */
+public final class t5f implements u5f {
+    public final long a;
+
+    public t5f(long j) {
+        this.a = j;
+    }
+
+    public final long a() {
+        return this.a;
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        return (obj instanceof t5f) && this.a == ((t5f) obj).a;
+    }
+
+    public final int hashCode() {
+        return Long.hashCode(this.a);
+    }
+
+    public final String toString() {
+        return zr6.k(new StringBuilder("MarkAsUnreadEvent(mark="), this.a, ")");
+    }
+}

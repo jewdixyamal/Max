@@ -1,0 +1,6 @@
+package defpackage;
+
+/* renamed from: eyb  reason: default package */
+public abstract class eyb {
+    public static int view_tree_view_model_store_owner = 2131365126;
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:oneshot="true">
+    <item android:duration="42" android:drawable="0x7f080556"/>
+    <item android:duration="42" android:drawable="0x7f080558"/>
+    <item android:duration="42" android:drawable="0x7f08055a"/>
+    <item android:duration="42" android:drawable="0x7f08055c"/>
+    <item android:duration="42" android:drawable="0x7f08055e"/>
+    <item android:duration="42" android:drawable="0x7f080560"/>
+    <item android:duration="42" android:drawable="0x7f080562"/>
+    <item android:duration="42" android:drawable="0x7f080564"/>
+    <item android:duration="42" android:drawable="0x7f080566"/>
+    <item android:duration="42" android:drawable="0x7f080568"/>
+    <item android:duration="42" android:drawable="0x7f08056a"/>
+    <item android:duration="42" android:drawable="0x7f08056c"/>
+    <item android:duration="42" android:drawable="0x7f08056e"/>
+    <item android:duration="42" android:drawable="0x7f080570"/>
+    <item android:duration="42" android:drawable="0x7f080572"/>
+    <item android:duration="42" android:drawable="0x7f080574"/>
+    <item android:duration="42" android:drawable="0x7f080576"/>
+    <item android:duration="42" android:drawable="0x7f080578"/>
+    <item android:duration="42" android:drawable="0x7f08057a"/>
+    <item android:duration="42" android:drawable="0x7f08057c"/>
+    <item android:duration="42" android:drawable="0x7f08057e"/>
+    <item android:duration="42" android:drawable="0x7f080580"/>
+    <item android:duration="42" android:drawable="0x7f080582"/>
+    <item android:duration="42" android:drawable="0x7f080584"/>
+    <item android:duration="42" android:drawable="0x7f080586"/>
+    <item android:duration="42" android:drawable="0x7f080588"/>
+    <item android:duration="42" android:drawable="0x7f08058a"/>
+    <item android:duration="42" android:drawable="0x7f08058c"/>
+    <item android:duration="42" android:drawable="0x7f08058e"/>
+    <item android:duration="42" android:drawable="0x7f080590"/>
+    <item android:duration="42" android:drawable="0x7f080592"/>
+</animation-list>

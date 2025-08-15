@@ -1,0 +1,25 @@
+package defpackage;
+
+/* renamed from: no8  reason: default package */
+public final class no8 implements qo8 {
+    public final int a;
+
+    public no8(int i) {
+        this.a = i;
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        return (obj instanceof no8) && this.a == ((no8) obj).a;
+    }
+
+    public final int hashCode() {
+        return Integer.hashCode(this.a);
+    }
+
+    public final String toString() {
+        return zr6.j(new StringBuilder("OnMemberListActionClicked(id="), this.a, ")");
+    }
+}
